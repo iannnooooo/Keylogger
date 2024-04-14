@@ -35,7 +35,7 @@ You can install pynput using pip:
 
 ## Disclaimer
 
-This software is provided "as is" without warranty of any kind, express or implied. Use it at your own risk.
+This script is provided "as is" without warranty of any kind, express or implied. Use it at your own risk.
 
 
 
